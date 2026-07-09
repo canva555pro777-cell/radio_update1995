@@ -1,4 +1,6 @@
 #EXTM3
+#EXTINF:0, كاس العالم مباشر
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Onm9V4xpHKtmibqJjU1k9naT5SsAX20jaf8x7GX_-slqwigGFX2iPP8BbSMYWvTRtTSIM4-JCuLM5cNtV7saCg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:0,Anis FM max 1
 http://anisfm.pp.ua/Mx1
 #EXTINF:-1,BeiN 1
